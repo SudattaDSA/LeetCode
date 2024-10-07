@@ -11,6 +11,7 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SudattaDSA/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SudattaDSA/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -44,4 +45,8 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SudattaDSA/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SudattaDSA/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
