@@ -11,6 +11,7 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SudattaDSA/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SudattaDSA/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SudattaDSA/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -52,9 +53,14 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SudattaDSA/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0338-counting-bits](https://github.com/SudattaDSA/LeetCode/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/SudattaDSA/LeetCode/tree/master/0338-counting-bits) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SudattaDSA/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
