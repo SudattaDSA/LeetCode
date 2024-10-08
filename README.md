@@ -22,6 +22,7 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SudattaDSA/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/SudattaDSA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,4 +64,9 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SudattaDSA/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/SudattaDSA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/SudattaDSA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
