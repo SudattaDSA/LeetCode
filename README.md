@@ -6,6 +6,7 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 ## Array
 |  |
 | ------- |
+| [0271-encode-and-decode-strings](https://github.com/SudattaDSA/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/SudattaDSA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SudattaDSA/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -64,9 +65,14 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SudattaDSA/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0271-encode-and-decode-strings](https://github.com/SudattaDSA/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/SudattaDSA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/SudattaDSA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Design
+|  |
+| ------- |
+| [0271-encode-and-decode-strings](https://github.com/SudattaDSA/LeetCode/tree/master/0271-encode-and-decode-strings) |
 <!---LeetCode Topics End-->
