@@ -49,4 +49,12 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SudattaDSA/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/SudattaDSA/LeetCode/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/SudattaDSA/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
