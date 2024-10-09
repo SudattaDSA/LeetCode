@@ -6,6 +6,7 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SudattaDSA/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0271-encode-and-decode-strings](https://github.com/SudattaDSA/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/SudattaDSA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SudattaDSA/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -22,6 +23,7 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SudattaDSA/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SudattaDSA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/SudattaDSA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
@@ -75,4 +77,8 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/SudattaDSA/LeetCode/tree/master/0271-encode-and-decode-strings) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/SudattaDSA/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
