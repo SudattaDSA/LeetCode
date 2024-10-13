@@ -27,7 +27,7 @@ class Solution {
             // the least value is still somewhere to the right as we are still dealing with
             // elements
             // greater than nums[0]
-            if (nums[mid] > nums[0]) {
+            if (nums[mid] > nums[left]) {
                 left = mid + 1;
             } else {
                 // if nums[0] is greater than the mid value then this means the smallest value
