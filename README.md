@@ -7,6 +7,7 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SudattaDSA/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SudattaDSA/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0271-encode-and-decode-strings](https://github.com/SudattaDSA/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/SudattaDSA/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SudattaDSA/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -81,4 +82,8 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SudattaDSA/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SudattaDSA/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
