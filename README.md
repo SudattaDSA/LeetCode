@@ -59,6 +59,7 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SudattaDSA/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/SudattaDSA/LeetCode/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/SudattaDSA/LeetCode/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
@@ -68,6 +69,7 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SudattaDSA/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/SudattaDSA/LeetCode/tree/master/0022-generate-parentheses) |
 | [0271-encode-and-decode-strings](https://github.com/SudattaDSA/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/SudattaDSA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -86,4 +88,8 @@ Welcome to my collection of solutions to LeetCode problems! This repository cont
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SudattaDSA/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SudattaDSA/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
